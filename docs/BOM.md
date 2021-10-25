@@ -14,6 +14,6 @@
 |Screw M  x 18mm | 4 (for 3mm acrylic bottom plate) | |,
 |Battery | 1 (for wireless board) | [[Kitronik battery]](https://kitronik.co.uk/products/4652-polymer-lithium-ion-battery-1ah) |
 | 5.1K TH resistors | 2 | |
-
+| GCT USB4085-GF-A | 1 | [[USB connector]](https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733). The pins may need trimming with cutter if PCB is < 1.6mm |
 
 [[Back to README]](../README.md)
