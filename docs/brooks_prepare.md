@@ -47,4 +47,4 @@ Items to be modified:
 * When everything is in order, you can increase the strength of the case by glueing joins on top and side panels (but not the bottom one) inside with Tensol Acrylic glue - it melts acrylic together. But it can get very messy, screws are just fine.
 * Cover the brook board with electrical tape to prevent shorting pins against the metal plate.
 
-![alt text](prepare_assets/image7.jpg "Tape")
+![alt text](prepare_assets/image7.png "Tape")
