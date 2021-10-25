@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name arcade)(type KiCad)(uri ${KIPRJMOD}/arcade.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri ${KIPRJMOD}/keyswitches.pretty)(options "")(descr ""))
+)
