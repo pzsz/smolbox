@@ -6,6 +6,6 @@
 
 The smolbox , a portable arcade controller.
 
-![alt text](docs/pinky.webm "Smolbox Pinky")
+![alt text](docs/pinky.jpg "Smolbox Pinky")
 
-![alt text](docs/thumb.webm "Smolbox Thumb")
+![alt text](docs/thumb.jpg "Smolbox Thumb")
